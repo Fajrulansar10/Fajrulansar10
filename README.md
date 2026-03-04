@@ -1,16 +1,22 @@
-## Hi there 👋
+# Profil GitHub – Fajrul
 
-<!--
-**Fajrulansar10/Fajrulansar10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya seorang dokter dan dosen yang memiliki ketertarikan pada:
+- Pengembangan ilmu kedokteran dan pendidikan kesehatan
+- Kecerdasan buatan (Artificial Intelligence) dan pemanfaatannya di bidang medis dan pendidikan
+- Penelitian dan pengembangan berbasis data
 
-Here are some ideas to get you started:
+## Kegiatan saat ini
+- Praktik klinis dan kegiatan pengajaran
+- Pengembangan materi ajar dan supervisi akademik
+- Keterlibatan dalam penelitian dan publikasi ilmiah
+- Eksplorasi penggunaan teknologi dan AI untuk mendukung pekerjaan klinis dan akademik
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Minat pengembangan
+- Analisis data medis dan pemodelan berbasis AI
+- Aplikasi pendukung edukasi dan layanan kesehatan
+- Otomatisasi workflow akademik dan manajemen penelitian
+
+## Kontak
+- Email: fajrulansar19@gmail.com
+
+Terima kasih telah mengunjungi profil GitHub ini.
